@@ -17,3 +17,10 @@ Combined emphasis with **asterisks and _underscores_**.
 Strikethrough uses two tildes. ~Scratch this.~
 
 ---
+
+If you want to quote a saying, do it wihth the _greater than_ symbol.
+
+> Go placidly amidst the noise and haste
+> , and remember what peace there may be in silence.
+
+> The boy stood on the burning deck, whence all but he had left. 
