@@ -1,4 +1,4 @@
-![alt text](https://avatars.githubusercontent.com/u/18135468?v=4 |"Logo Title Text 1")
+![alt text](https://avatars.githubusercontent.com/u/18135468?v=4 "Logo Title Text 1")
 
 ---
 
